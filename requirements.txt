@@ -1,0 +1,8 @@
+google-cloud-aiplatform==1.16.0
+google-cloud-storage==2.5.0
+google-cloud-functions==1.7.0
+google-cloud-logging==3.0.0
+google-cloud-monitoring==2.7.0
+gcsfs==2023.6.0
+pandas==2.0.3
+scikit-learn==1.2.2
